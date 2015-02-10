@@ -1,0 +1,11 @@
+body {background: white;}
+
+#wrapper, #content {
+	width: auto;
+	height: auto; 
+	text-align: left;
+	color: black;}
+
+img{display: none;}
+
+
